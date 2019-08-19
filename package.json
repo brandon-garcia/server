@@ -1,6 +1,6 @@
 {
   "name": "@bcg-ts/server",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "author": {
@@ -20,10 +20,10 @@
     "url": "https://github.com/brandon-garcia/server.git"
   },
   "dependencies": {
-    "@bcg-ts/ts-toolkit": "4.0.0",
-    "fastify": "2.7.1"
+    "@bcg-ts/ts-toolkit": "4.0.0"
   },
   "devDependencies": {
+    "@types/node": "12.7.2",
     "typescript": "3.4.5"
   }
 }
